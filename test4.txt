@@ -1,0 +1,26 @@
+print("Welcome to the palindrome detector!")
+#print("Once prompted, enter a string.")
+#def isPalindrome(str):
+    for i in range(0, int(len(str)/2)):
+#       """
+#       a = str[i]
+#       b = str[len(str)-i-1]
+#       c = "test1"
+#       """
+#       if a != b:
+#           return False
+#   return True
+#   
+#a = input("please input a string")
+#res = isPalindrome(a)
+#if res:
+#    print("It is a palindrome!")
+else:
+#    print("It is not a palindrome")
+#text=""" Here's some random multiline string. Not a comment!
+#Newlines here,
+#       another newline there with some intendents.
+#Kinda stupid that python thinks triple quotes should represent value or comments.
+#Oh well.
+#"""
+print(text)
